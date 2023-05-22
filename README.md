@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Juan Carlos Jaramillo</h1>
-<h3 align="center">Soy un backed y forntend developer</h3>
+<h1 align="center">Hi 👋, Soy  Juan Carlos Jaramillo</h1>
+<h3 align="center">Soy un backend y frontend developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
